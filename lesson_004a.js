@@ -1,4 +1,4 @@
-// https://codility.com/demo/results/trainingSE34AE-KAK/
+// https://codility.com/demo/results/trainingQ9JA7U-ZJP/
 
 function solution(X, A) {
     var positions = secondsToFillPosition(A, X);
